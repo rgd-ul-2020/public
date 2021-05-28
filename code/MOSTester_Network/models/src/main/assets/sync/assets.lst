@@ -1,0 +1,11 @@
+edu/cmu/sphinx/models/en-us/cmudict-en-us.dict
+edu/cmu/sphinx/models/en-us/en-us.lm.bin
+edu/cmu/sphinx/models/en-us/en-us/README
+edu/cmu/sphinx/models/en-us/en-us/feat.params
+edu/cmu/sphinx/models/en-us/en-us/mdef
+edu/cmu/sphinx/models/en-us/en-us/means
+edu/cmu/sphinx/models/en-us/en-us/mixture_weights
+edu/cmu/sphinx/models/en-us/en-us/noisedict
+edu/cmu/sphinx/models/en-us/en-us/sendump
+edu/cmu/sphinx/models/en-us/en-us/transition_matrices
+edu/cmu/sphinx/models/en-us/en-us/variances

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mean Opinion Score Test</string>
+
+    <string name="radio_question">Quality of the speech</string>
+    <string name="radio_excellent">Excellent</string>
+    <string name="radio_good"     >Good</string>
+    <string name="radio_fair"     >Fair</string>
+    <string name="radio_poor"     >Poor</string>
+    <string name="radio_bad"      >Bad</string>
+
+    <string name="intro_text">
+    </string>
+
+    <string name="button_next">Next</string>
+</resources>
