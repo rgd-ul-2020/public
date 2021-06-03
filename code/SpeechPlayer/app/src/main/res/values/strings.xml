@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechPlayer</string>
+    <string name="local_addr">Local IP: %s</string>
+</resources>

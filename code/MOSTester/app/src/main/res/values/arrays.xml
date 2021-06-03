@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preview">
+        <item>@raw/pv_female_alaw</item>
+        <item>@raw/pv_male_alaw</item>
+
+        <item>@raw/pv_female_high</item>
+        <item>@raw/pv_male_high</item>
+
+        <item>@raw/pv_female_mid</item>
+        <item>@raw/pv_male_mid</item>
+
+        <item>@raw/pv_female_low</item>
+        <item>@raw/pv_male_low</item>
+    </array>
+
+    <array name="test01">
+        <item>@raw/f_hangouts</item>
+        <item>@raw/m_hangouts</item>
+
+        <item>@raw/f_horizon</item>
+        <item>@raw/m_horizon</item>
+
+        <item>@raw/f_line</item>
+        <item>@raw/m_line</item>
+
+        <item>@raw/f_messenger</item>
+        <item>@raw/m_messenger</item>
+
+        <item>@raw/f_qq</item>
+        <item>@raw/m_qq</item>
+
+        <item>@raw/f_skype</item>
+        <item>@raw/m_skype</item>
+
+        <item>@raw/f_telegram</item>
+        <item>@raw/m_telegram</item>
+
+        <item>@raw/f_viber</item>
+        <item>@raw/m_viber</item>
+
+        <item>@raw/f_wechat</item>
+        <item>@raw/m_wechat</item>
+
+        <item>@raw/f_whatsapp</item>
+        <item>@raw/m_whatsapp</item>
+    </array>
+</resources>
